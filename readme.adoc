@@ -1,0 +1,3 @@
+= Flask Tutorial
+
+* link:https://www.hmtmcse.com/python/flask-sqlalchemy/bismillah[Flask SQLAlchemy step-by-step tutorial, window=blank]
